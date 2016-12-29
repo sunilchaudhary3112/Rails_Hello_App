@@ -1,3 +1,7 @@
-Rails_Hello_App
+# Ruby on Rails Tutorial
 
-It is a sample app for learning rails
+## "hello, world!"
+
+This is the first application for the
+[*Ruby on Rails Tutorial*](http://www.railstutorial.org/)
+by [Michael Hartl](http://www.michaelhartl.com/). Hello, world!
